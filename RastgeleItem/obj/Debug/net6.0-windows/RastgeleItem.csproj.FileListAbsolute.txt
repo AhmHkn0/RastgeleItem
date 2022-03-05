@@ -1,0 +1,17 @@
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\bin\Debug\net6.0-windows\RastgeleItem.exe
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\bin\Debug\net6.0-windows\RastgeleItem.deps.json
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\bin\Debug\net6.0-windows\RastgeleItem.runtimeconfig.json
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\bin\Debug\net6.0-windows\RastgeleItem.dll
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\bin\Debug\net6.0-windows\RastgeleItem.pdb
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.csproj.AssemblyReference.cache
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.Form1.resources
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.csproj.GenerateResource.cache
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.AssemblyInfoInputs.cache
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.AssemblyInfo.cs
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.csproj.CoreCompileInputs.cache
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.dll
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\refint\RastgeleItem.dll
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.pdb
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\RastgeleItem.genruntimeconfig.cache
+C:\Users\VartenisthPC\source\repos\RastgeleItem\RastgeleItem\obj\Debug\net6.0-windows\ref\RastgeleItem.dll
