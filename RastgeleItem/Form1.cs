@@ -46,5 +46,13 @@ namespace RastgeleItem
                 label1.Text = "Listede 1 seçenek var ya da boþ. Önce listeye seçenekler ekleyin.";
             }
         }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                button1_Click(this, new EventArgs());
+            }
+        }
     }
 }
